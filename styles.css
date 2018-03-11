@@ -1,0 +1,32 @@
+h1, h4 {
+  text-align: center;
+  color: teal;
+}
+
+button{
+  margin:auto;
+  display:block;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+p {
+  display: none;
+  text-align: center;
+  color: blue;
+}
+
+.messages {
+  background-color: #FFFFFF;
+  opacity:0.96;
+}
+
+img {
+  margin:auto;
+  display:block;
+}
